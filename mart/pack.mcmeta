@@ -1,1 +1,6 @@
-
+{
+    "pack": {
+        "description": "Mart resource pack",
+        "pack_format": 46
+    }
+}
